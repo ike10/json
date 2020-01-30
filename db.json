@@ -1,0 +1,6 @@
+Weather : [
+{
+  "location": "warri"
+  "temperature": 23,
+  "sky": "cloudy"
+  }]
