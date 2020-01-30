@@ -1,6 +1,15 @@
-Weather : [
 {
-  "location": "warri"
-  "temperature": 23,
-  "sky": "cloudy"
-  }]
+  "weather": [
+    {
+      "location": "warri",
+      "temperature": 23
+    },
+    {
+      "location": "lagos",
+      "temperature": 28
+    },
+    {
+      "location": "zaria",
+      "temperature": 15
+    }
+  ]
